@@ -1,0 +1,56 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+div{
+height: 200px;
+width: 100vw;
+background-color: blue ;
+background-image: linear-gradient(43deg,red 0%,blue 43%, green 100%);
+
+}
+
+
+
+.sin_ts{
+    margin: 60px, 40px;
+    border-radius: 5px;
+}
+
+.sin_ts{
+    background-color: #4158D0;
+}
+
+.con_ts{
+    background-color: #C850C0;
+    transition: all 2s;
+}
+
+.box:hover{
+    transform: scale (2);
+
+}
+/* circulos */
+.circulo1, .circulo2, .circulo3, .circulo4, .circulo5{
+    width: 30px;
+    height: 30 px;
+    border-radiius: 50%;
+    margin: 20px;
+}
+
+,circulo1{
+    background-color: mediumaquamarine;
+}
+.circulo2{
+    background-color: mediumaquamarine;
+}
+.circulo3{
+    background-color: mediumaquamarine;
+}
+.circulo4{
+    background-color: mediumaquamarine;
+}
+.circulo5{
+    background-color: mediumaquamarine;
+}
